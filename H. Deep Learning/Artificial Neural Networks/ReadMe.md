@@ -22,4 +22,28 @@ For each of the inoput values, weights get attributed. They are crucial, and are
 
 Within the neuron, we make sure the weights add up to 1 and then it will apply the activation function 
 
-<h2> Activation Function </h2>
+<h2> Activation Functions </h2>
+
+There are four types of activation functions <br>
+1) Threshold function<br>
+![image](https://user-images.githubusercontent.com/58488172/149629078-ff306d8c-31dc-4c68-ad00-69b0f4588dda.png)
+
+
+2) Sigmoid function<br>
+![image](https://user-images.githubusercontent.com/58488172/149629093-e2a4f849-a5b4-4d3c-8136-f250d49157eb.png)
+
+3) Rectifier Function <br>
+![image](https://user-images.githubusercontent.com/58488172/149629116-9e5d22a7-ffcd-4afc-86a7-3925422a373f.png)
+
+4) Hyperbolic Tangent Function<br>
+![image](https://user-images.githubusercontent.com/58488172/149629134-2622c921-66a0-440a-8491-88f0de66dff2.png)
+
+
+
+
+
+
+
+<h2> How do Neural Networks learn </h2>
+
+
